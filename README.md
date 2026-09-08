@@ -1,2 +1,2 @@
-[Website](https://fbiagent42.github.io/KNN_Blog_Website/)
+[Website](https://fbiagent42.github.io/Data_Science_Blog/)
 
